@@ -14,13 +14,13 @@ A ROS wrapper around the [GPD](https://github.com/atenpas/gpd) package for detec
 The following instructions have been tested on **Ubuntu 16.04**. Similar
 instructions should work for other Linux distributions.
 
-1. Install GPD. You can follow [these instructions](https://github.com/atenpas/gpd#install).
+1. Install GPD. You can follow [these instructions](https://github.com/jacknpainter/gpd#install).
 
 2. Clone this repository into the `src` folder of your catkin workspace:
 
    ```
    cd <location_of_your_workspace>/src
-   git clone https://github.com/atenpas/gpd2_ros
+   git clone https://github.com/jacknpainter/gpd_ros
    ```
 
 3. Build your catkin workspace:
